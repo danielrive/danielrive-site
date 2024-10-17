@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+aws:
+  label: AWS
+  permalink: /aws
+  description: Content related with AWS
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+kubernetes:
+  label: Kubernetes
+  permalink: /kubernetes
+  description: Content related with Kubernetes
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+smartcash-project:
+  label: smartcash-project
+  permalink: /smartcash-project
+  description: Content related with smartcash-project
